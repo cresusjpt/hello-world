@@ -1,2 +1,1 @@
-# hello-world
-un projet d'entree dans github
+Mon nom est pas important mais sachez que je viens de m'inscrire sur github pour pouvoir travailler en equipe sur un meme projets donc je suis en train de faire le projet hello world de github raison de la redaction de ces quelques lignes.
